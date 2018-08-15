@@ -14,4 +14,3 @@ PLAAS combines RFID with blockchain technology to provide an animal tracking sys
 
 visit https://plaas.io/ https://twitter.com/plaasio https://www.facebook.com/plaas.io/
 # PLS token source code 
-https://etherscan.io/address/0x507966241f81902bb37a8070fb4ade8056ca1cc1#code
