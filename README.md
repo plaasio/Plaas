@@ -12,6 +12,14 @@ The platform will also provide an online marketplace for buyers and sellers on t
 # RFID and sensor technology
 PLAAS combines RFID with blockchain technology to provide an animal tracking system. Additionally, the RFID chips hold information that can be read using an RFID reader, RFID(the chip and RFID will be working together. The information on the chips will include the owner of the animal and the genetic information. In the case of plants, PLAAS leverages wireless sensors that are set up in participating farms allowing easy monitoring of the planting, growth, and harvesting of crops remotely. The information in the sensors and RFID are captured in real-time and relayed to the blockchain
 
+We will be chipping animals recorded in the platform using the Radio Frequency Identification (tech) so the details contained in the RFID will for example be cows date of birth breed and heredity details healthy history and also geolocation information
+
+When a cow is at the slaughter house the machines can scan the chip which is basically an   ethereum address and can review all the data there…
+
+The slaughter house will have a private key that signs the ethereum address and signals on the Plaas smart contract to reduct the ethereum address
+
+This done to confirm  if the information about that particular cow is true and then can save the transaction hash and ethereum address on the database
+
 visit https://plaas.io/ https://twitter.com/plaasio https://www.facebook.com/plaas.io/
 # PLS token source code 
-https://etherscan.io/address/0x507966241f81902bb37a8070fb4ade8056ca1cc1#code
+https://etherscan.io/token/0x507966241f81902Bb37a8070fB4ade8056CA1cc1
