@@ -14,15 +14,7 @@ Players in the agricultural sector can use the platform to share information abo
 One of things also Plaas is to help make genetic easy 
 That is we can have geneticist develop a cow with particular traits e.g maybe without horns or cows adapted for particular dry area this means farmers will be able to purchase genetic material from genetists and improve their livestock
 So scientists developing genetic material can store this information on ethereum contract and have it available for farmers 
-And the blockchain as a source of truth will make this possible and verifiable..
- Explaining the RFID this how it will be working 
-
-We will be chipping animals recorded in the platform using the Radio Frequency Identification (tech) so the details contained in the RFID will for example be cows date of birth breed and heredity details healthy history and also geolocation information 
-
-When a cow is at the slaughter house the machines can scan the chip which is basically an   ethereum address and can review all the data there... 
-The slaughter house will have a private key that signs the ethereum address and signals on the Plaas smart contract to reduct the ethereum address 
-This done to confirm  if the information about that particular cow is true and then can save the transaction hash and ethereum address on the database
-
+And the blockchain as a source of truth will make this possible and verifiable.
 
 # RFID and sensor technology
 PLAAS combines RFID with blockchain technology to provide an animal tracking system. Additionally, the RFID chips hold information that can be read using an RFID reader, RFID(the chip and RFID will be working together. The information on the chips will include the owner of the animal and the genetic information. In the case of plants, PLAAS leverages wireless sensors that are set up in participating farms allowing easy monitoring of the planting, growth, and harvesting of crops remotely. The information in the sensors and RFID are captured in real-time and relayed to the blockchain
@@ -35,6 +27,6 @@ The slaughter house will have a private key that signs the ethereum address and 
 
 This done to confirm  if the information about that particular cow is true and then can save the transaction hash and ethereum address on the database
 
-visit https://plaas.io/ https://twitter.com/plaasio https://www.facebook.com/plaas.io/
+visit https://plaas.io/ https://twitter.com/plaasio https://www.facebook.com/plaas.io/ https://t.me/Plaas2018
 # PLS token source code 
 https://etherscan.io/tx/0x7749a74d2515cf02e15745a00b974143263fd5d2972676cbd0dc0437aa1a0297
