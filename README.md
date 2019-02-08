@@ -30,3 +30,6 @@ This done to confirm  if the information about that particular cow is true and t
 visit https://plaas.io/ https://twitter.com/plaasio https://www.facebook.com/plaas.io/ https://t.me/Plaas2018
 # PLS token source code 
 https://etherscan.io/tx/0x7749a74d2515cf02e15745a00b974143263fd5d2972676cbd0dc0437aa1a0297
+
+#Plaas Demo
+https://satoshicentre.info/signin-signup-connect/index.php
