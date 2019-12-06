@@ -26,7 +26,9 @@ When a cow is at the slaughter house the machines can scan the chip which is bas
 The slaughter house will have a private key that signs the ethereum address and signals on the Plaas smart contract to reduct the ethereum address
 
 This done to confirm  if the information about that particular cow is true and then can save the transaction hash and ethereum address on the database
-
+PLAAS FUTURE CONTRACTS.
+To give farmers in Africa a chance to be competitive globally,we introduced the PLAAS futures contracts.Farmers in Africa can now trade 
+future products.
 visit https://plaas.io/ https://twitter.com/plaasio https://www.facebook.com/plaas.io/ https://t.me/Plaas2018
 # PLS token source code 
 https://etherscan.io/address/0x8d9626315e8025b81c3bdb926db4c51dde237f52#code
